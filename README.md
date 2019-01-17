@@ -1,5 +1,3 @@
 # Pygame Evolution Simulator
 
-This is a WIP
-
-Will add aditional info
+I got some pretty nice pseudo random creatures generated and wrote a function for asexual reproduction but displaying them nicely and measuring fitness seems overly complicated. I don't think pygame is the tool for the job. Lists of lists of lists of lists of lists
